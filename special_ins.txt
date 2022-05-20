@@ -1,0 +1,15 @@
+Take 1 pill at bedtime
+Take 2 pills at bedtime
+Take 3 pills at bedtime
+Take 1 pill in the morning
+Take 2 pills in the morning
+Take 3 pills in the morning
+Take 1 pill in the morning and 1 pill at bedtime
+Take 2 pills in the morning and 2 pills at bedtime
+Take 3 pills in the morning and 3 pills at bedtime
+Take 1 pill in the morning 1 pill at noon and 1 pill in the evening
+Take 2 pills in the morning 2 pills at noon and 2 pills in the evening
+Take 3 pills in the morning 3 pills at noon and 3 pills in the evening
+Take 1 pill in the morning 1 pill at noon and 1 pill at bedtime
+Take 2 pills in the morning 2 pills at noon and 2 pills at bedtime
+Take 3 pills in the morning 3 pills at noon and 3 pills at bedtime

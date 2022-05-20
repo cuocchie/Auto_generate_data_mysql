@@ -1,0 +1,38 @@
+ADHD
+Arthritis
+Asthma
+Autism
+Avian Influenza
+Birth Defects
+Cancer
+Chlamydia
+Chronic Fatigue Syndrome
+Chronic Obstructive Pulmonary Disease (COPD)
+COVID-19
+Diabetes
+Ebola (Ebola Virus Disease)
+Epilepsy
+Fetal Alcohol Spectrum Disorder
+Flu (Influenza)
+Genital Herpes (Herpes Simplex Virus)
+Giardiasis
+Gonorrhea
+Healthy Water
+Heart Disease
+Hepatitis
+HIV
+Human papillomavirus (HPV)
+Kidney Disease (Chronic Kidney Disease)
+Meningitis
+Methicillin-resistant Staphylococcus aureus (MRSA)
+Microcephaly
+Middle East Respiratory Syndrome (MERS)
+Overweight and Obesity
+Parasites – Scabies
+Salmonella
+Sexually Transmitted Diseases
+Stroke
+Traumatic Brain Injury (TBI)
+Trichomonas Infection (Trichomoniasis)
+Tuberculosis (TB)
+Zika Virus
